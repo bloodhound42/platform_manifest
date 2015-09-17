@@ -507,7 +507,7 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="cm-12.1" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" revision="cm-12.1" />
 
-  <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" remote="github" revision="cm-12.1" />
+  <project path="device/qcom/sepolicy" name="SlimSaber/android_device_qcom_sepolicy" remote="github" revision="lp5.1" />
   <project path="external/pcre" name="CyanogenMod/android_external_pcre" remote="github" revision="cm-12.1" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" remote="github" revision="cm-12.1" />
   <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" remote="github" revision="cm-12.1" />
